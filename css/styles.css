@@ -94,8 +94,8 @@ img {
 .header-line-stud::after {
   display: block;
   content: "";
-  margin-top: 31px;
-  margin-bottom: -31px;
+  margin-top: 31.5px;
+  margin-bottom: -31.5px;
   width: 100%;
   height: 4px;
   border-radius: 2px;
